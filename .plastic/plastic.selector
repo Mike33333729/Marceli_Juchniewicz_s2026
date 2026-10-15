@@ -1,0 +1,3 @@
+repository "Marceli_J_Projekt/Marceli_J_Projekt@7971479207924@cloud"
+  path "/"
+    smartbranch "/main"
